@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Wielkanoc2.Form1.resources
+obj\Debug\Wielkanoc2.Properties.Resources.resources
+obj\Debug\Wielkanoc2.csproj.GenerateResource.Cache
+bin\Debug\Wielkanoc2.exe
+bin\Debug\Wielkanoc2.pdb
+obj\Debug\Wielkanoc2.exe
+obj\Debug\Wielkanoc2.pdb
+bin\Release\Wielkanoc2.exe
+bin\Release\Wielkanoc2.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Wielkanoc2.Form1.resources
+obj\Release\Wielkanoc2.Properties.Resources.resources
+obj\Release\Wielkanoc2.csproj.GenerateResource.Cache
+obj\Release\Wielkanoc2.exe
+obj\Release\Wielkanoc2.pdb
